@@ -1,0 +1,12 @@
+[package]
+name = "text-to-image"
+version = "0.1.0"
+authors = ["liyiheng <liyihenggnehiyil@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rusttype = "0.8.2"
+image = "0.23.3"
+clap = "2.33.0"

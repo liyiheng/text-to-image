@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextToImage</string>
+    <string name="app_desc">微信聊天文字转图片</string>
+</resources>
